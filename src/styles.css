@@ -1,0 +1,37 @@
+.tweet {
+  border: 1px solid #ccc;
+  width: 260px;
+  min-height: 100px;
+  padding: 10px;
+  display: flex;
+  font-family: "Helvetica", arial, sans-serif;
+  font-size: 14px;
+  line-height: 18px;
+  background-color: rgb(93, 93, 228);
+}
+.bankname {
+  position: absolute;
+  left: 159px;
+  color: wheat;
+}
+.creditcardno {
+  position: absolute;
+  left: 90px;
+  top: 50px;
+}
+.name {
+  position: absolute;
+  top: 100px;
+  color: yellow;
+  opacity: 0.6;
+}
+.valid {
+  position: absolute;
+  top: 76px;
+  left: 100px;
+}
+.avatar {
+  position: relative;
+  height: 43px;
+  opacity: 0.7;
+}
