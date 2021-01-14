@@ -1,2 +1,2 @@
 # Atm-card
-Created with CodeSandbox
+Created with CodeSandbox and using react to display a static credit card
